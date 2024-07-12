@@ -1,6 +1,6 @@
 
 <footer
-	class="text-white bg-dark d-flex align-items-center justify-content-around footer">
+	class="text-white bg-dark d-flex fixed-bottom align-items-center justify-content-around footer">
 	<h4 class="pt-2 ">STARTUP</h4>
 	<h4 class="pt-2">
 		<a href="#https://github.com/"><i

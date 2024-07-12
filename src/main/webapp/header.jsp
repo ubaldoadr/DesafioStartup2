@@ -1,5 +1,5 @@
 	<header
-		class="barra container-fluid bg-dark d-flex justify-content-center">
+		class="barra container-fluid bg-dark d-flex sticky-top justify-content-center">
 		<nav class="navbar navbar-expand-lg navbar-dark container sticky-top">
 			<div class="container-fluid">
 				<h1 class="lobster-regular text-white">Desafio Startup: 2 fast 2 Startup </h1>
